@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <rect width="180" height="180" rx="40" fill="#ffffff"/>
+  <!-- Kiosk mark: monitor + awning -->
+  <g transform="translate(90 78)" fill="#0050cb">
+    <!-- Awning / roof -->
+    <path d="M-34-34h68l-8 16H-26l-8-16z"/>
+    <!-- Monitor frame -->
+    <rect x="-30" y="-18" width="60" height="44" rx="4" stroke="#0050cb" stroke-width="7" fill="none"/>
+    <!-- Screen -->
+    <rect x="-18" y="-8" width="36" height="24" rx="2"/>
+    <!-- Stand -->
+    <rect x="-8" y="26" width="16" height="6" rx="1"/>
+    <rect x="-16" y="32" width="32" height="5" rx="1.5"/>
+  </g>
+  <text
+    x="90"
+    y="148"
+    text-anchor="middle"
+    font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="28"
+    font-weight="750"
+    letter-spacing="0.12em"
+    fill="#0050cb"
+  >OSKKI</text>
+</svg>
